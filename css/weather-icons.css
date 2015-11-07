@@ -29,6 +29,11 @@ table {
   text-align: left;
   width: 100%;
 }
+.weather-forecast .current {
+
+font-size :4rem; 
+
+}
 
 td {
   padding: 1rem;
