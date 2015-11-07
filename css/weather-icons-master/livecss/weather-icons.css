@@ -33,6 +33,7 @@ table {
 .weather-forecast .current {
 
 font-size :0rem;
+opacity: 0,0;
 
 }
 
